@@ -9,11 +9,25 @@ import "fmt"
 // 	fmt.Println("this string"[2])
 // }
 
-func main() {
-	var name string
+// func main() {
+// 	var name string
 
-	name = "Fachry"
+// 	name = "Fachry"
+// 	fmt.Println(name)
+// 	name = "Fachry Alifian"
+// 	fmt.Println(name)
+// }
+
+func main() {
+	var name string = "Fachry"
 	fmt.Println(name)
 	name = "Fachry Alifian"
 	fmt.Println(name)
 }
+
+// func main() {
+// 	name := "Fachry"
+// 	fmt.Println(name)
+// 	name = "Fachry Alifian"
+// 	fmt.Println(name)
+// }
