@@ -14,5 +14,7 @@ import "fmt"
 // true
 func main() {
 	const name string = "Fachry"
-	fmt.Println(name)
+	const age int = 20
+
+	fmt.Println(name + " is " + fmt.Sprint(age) + " years old")
 }
