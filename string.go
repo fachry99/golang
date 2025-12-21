@@ -18,7 +18,7 @@ import "fmt"
 // 	fmt.Println(name)
 // }
 
-func main() {
+func strings() {
 	var name string = "Fachry"
 	fmt.Println(name)
 	name = "Fachry Alifian"

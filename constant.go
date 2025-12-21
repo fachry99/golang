@@ -12,7 +12,7 @@ import "fmt"
 // }
 
 // true
-func main() {
+func constant() {
 	const name string = "Fachry"
 	const age int = 20
 
